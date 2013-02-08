@@ -15,4 +15,4 @@ Instructions
 About
 -----
 * Author: [MadManMarkAu] () [KB3NZQ]
-* Source: [GitHub](http://github.com/RobLoach/plugin.video.jupiterbroadcasting/)
+* Source: [GitHub](https://github.com/KB3NZQ/XBMC-TheGeekGroup)
