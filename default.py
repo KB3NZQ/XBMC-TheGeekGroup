@@ -1,7 +1,7 @@
 import urllib, urllib2, re, xbmcplugin, xbmcgui, xbmcaddon, os
 from time import strftime
 from BeautifulSoup import BeautifulSoup, BeautifulStoneSoup
-<import addon="xbmc.python" version="2.1.0"/>
+
 __settings__ = xbmcaddon.Addon(id='plugin.video.thegeekgroup')
 __language__ = __settings__.getLocalizedString
 
