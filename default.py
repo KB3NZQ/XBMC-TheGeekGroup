@@ -35,3 +35,12 @@ CATEGORIES()
 
 xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
+
+
+# below is some code i found to play the video by calling the youtube plugin to play it
+
+# needs to be made into proper def
+# video_id = 'youtube_video_id'
+#playback_url = 'plugin://plugin.video.youtube/?action=play_video&videoid=%s' % video_id
+#item = xbmcgui.ListItem(path=playback_url)
+#xbmcplugin.setResolvedUrl(plugin_handle, True, item)
