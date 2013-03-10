@@ -4,7 +4,7 @@ Watch shows from the [The Geek Group](http://www.Thegeekgroup.org) network in [X
 
 Shows
 -----
-* [Live Show](http://www.thegeekgroup.org)
+* [Live Show](http://www.thegeekgroup.org/live)
 
 
 Instructions
