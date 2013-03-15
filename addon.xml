@@ -9,6 +9,7 @@
     <import addon="plugin.video.youtube" version="4.4.2" />
     <import addon="script.common.plugin.cache" version="1.0.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
+    <import addon="plugin.video.jtv.archives" version="0.3.6"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
@@ -19,6 +20,5 @@
     <description>The Geek Group live stream.</description>
     <platform>all</platform>
     <language>en</language>
-    <broken>The Geek Group switched stream providers working on recoding to bring the plugin back if you wish to help contact KB3NZQ at gmail </broken>
   </extension>
 </addon>
