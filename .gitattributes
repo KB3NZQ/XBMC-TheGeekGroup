@@ -20,3 +20,5 @@
 .gitignore export-ignore
 DEVS-READ-This-first.txt export-ignore
 Michael-notes-open-to-anyone-for-input.txt export-ignore
+/resources/language/English/strings.xml
+
