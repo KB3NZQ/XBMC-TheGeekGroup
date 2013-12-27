@@ -12,6 +12,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+     <broken></broken>
     <summary>The Geek Group video addon</summary>
     <description>The Geek Group live stream.</description>
     <platform>all</platform>
