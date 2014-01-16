@@ -12,7 +12,6 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-     <broken>justin.tv changed something and i have not had the time to figure it out</broken>
     <summary>The Geek Group video addon</summary>
     <description>The Geek Group live stream.</description>
     <platform>all</platform>
